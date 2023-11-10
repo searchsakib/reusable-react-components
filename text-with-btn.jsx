@@ -8,7 +8,7 @@
           to="/"
           rel="noopener noreferrer"
           href="#"
-          className="px-8 py-3 font-semibold rounded bg-[#05386B] text-white hover:outline  hover:bg-white hover:text-[#05386B] text-center 2xl:w-1/6 mx-auto"
+          className="px-8 py-3 font-semibold rounded bg-[#05386B] text-white hover:outline  hover:bg-white hover:text-[#05386B] text-center mx-auto"
         >
           Back to homepage
         </Link>
