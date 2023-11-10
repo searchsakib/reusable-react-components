@@ -1,6 +1,6 @@
 // Just general use
 
-<div className="grid grid-cols-1 gap-10 mt-10 px-10 py-10">
+<div className="grid grid-cols-1 gap-10 my-10 px-10 py-10">
         <h2 className="text-3xl text-center font-medium">
           This is dummy text...
         </h2>
@@ -19,7 +19,7 @@
 
 // if this code used within a parent div with grid:
 
-<div className="grid col-span-2 gap-10 mt-10 px-10">
+<div className="grid col-span-2 gap-10 my-10 px-10 py-10">
             <h2 className="text-3xl text-center font-medium">
               This is dummy text...
             </h2>
